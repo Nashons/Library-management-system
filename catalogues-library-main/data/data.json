@@ -1,0 +1,1855 @@
+{
+  "LibraryServices": [
+    {
+      "Name": "Aberdeen City",
+      "Code": "S12000033",
+      "Type": "spydus",
+      "Url": "https://aberdeencity.spydus.co.uk/"
+    },
+    {
+      "Name": "Aberdeenshire",
+      "Code": "S12000034",
+      "Type": "spydus",
+      "Url": "https://aberdeenshire.spydus.co.uk/"
+    },
+    {
+      "Name": "Sir Ynys Mon - Isle of Anglesey",
+      "Code": "W06000001",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/ynysmon_en/"
+    },
+    {
+      "Name": "Angus",
+      "Code": "S12000041",
+      "Type": "spydus",
+      "Url": "https://angus.spydus.co.uk/"
+    },
+    {
+      "Name": "Argyll and Bute",
+      "Code": "S12000035",
+      "Type": "spydus",
+      "Url": "https://argyll-bute.spydus.co.uk/"
+    },
+    {
+      "Name": "Barking and Dagenham",
+      "Code": "E09000002",
+      "Type": "enterprise",
+      "Available": [
+        "On Shelf"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/barking-and-dagenham/",
+      "LibraryNameFilter": "Barking and Dagenham"
+    },
+    {
+      "Name": "Barnet",
+      "Code": "E09000003",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/barnet/"
+    },
+    {
+      "Name": "Barnsley",
+      "Code": "E08000016",
+      "Type": "enterprise",
+      "Url": "https://barns.ent.sirsidynix.net.uk/client/en_GB/default/",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true"
+    },
+    {
+      "Name": "Bath and North East Somerset",
+      "Code": "E06000022",
+      "Type": "enterprise",
+      "Id": "280001",
+      "Url": "https://www.librarieswest.org.uk/client/en_GB/default/",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "MultiAuthorityId": 4
+    },
+    {
+      "Name": "Bedford",
+      "Code": "E06000055",
+      "Type": "arena",
+      "Version": "v7",
+      "Id": "220001",
+      "ISBNAlias": "number",
+      "OrganisationName": "Bedford",
+      "OrganisationId": "AUK000022|3",
+      "ArenaName": "AUK000022",
+      "Url": "https://beds-arena.culturalservices.net/web/arena/",
+      "AdvancedUrl": "extended-search"
+    },
+    {
+      "Name": "Bexley",
+      "Code": "E09000004",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000226",
+      "Id": "750001",
+      "ISBNAlias": "number",
+      "Url": "https://arena.yourlondonlibrary.net/web/bexley/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK200102|18"
+    },
+    {
+      "Name": "Birmingham",
+      "Code": "E08000025",
+      "Type": "spydus",
+      "Url": "https://birmingham.spydus.co.uk/"
+    },
+    {
+      "Name": "Blackburn with Darwen",
+      "Code": "E06000008",
+      "Type": "spydus",
+      "Url": "https://bwdlibraries.spydus.co.uk/"
+    },
+    {
+      "Name": "Blackpool",
+      "Code": "E06000009",
+      "Type": "blackpool",
+      "Url": "https://www.blackpool.gov.uk/Residents/Libraries-arts-and-heritage/Libraries/Library-catalogue-search.aspx"
+    },
+    {
+      "Name": "Blaenau Gwent",
+      "Code": "W06000019",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/bgwent_en/"
+    },
+    {
+      "Name": "Bolton",
+      "Code": "E08000001",
+      "Type": "spydus",
+      "Url": "https://bolton.spydus.co.uk/"
+    },
+    {
+      "Name": "Bournemouth",
+      "Code": "E06000028",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/bournemouth/"
+    },
+    {
+      "Name": "Bracknell Forest",
+      "Code": "E06000036",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/bracknellforest/"
+    },
+    {
+      "Name": "Bradford",
+      "Code": "E08000032",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://bradford.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "Brent",
+      "Code": "E09000005",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/brent/",
+      "LibraryNameFilter": "Brent"
+    },
+    {
+      "Name": "Pen-y-bont ar Ogwr - Bridgend",
+      "Code": "W06000013",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/awen_en/"
+    },
+    {
+      "Name": "Brighton and Hove",
+      "Code": "E06000043",
+      "Type": "spydus",
+      "Url": "https://brighton-hove.spydus.co.uk/"
+    },
+    {
+      "Name": "Bristol City",
+      "Code": "E06000023",
+      "Type": "enterprise",
+      "Url": "https://www.librarieswest.org.uk/client/en_GB/default/",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true"
+    },
+    {
+      "Name": "Bromley",
+      "Code": "E09000006",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/bromley/"
+    },
+    {
+      "Name": "Buckinghamshire",
+      "Code": "E10000002",
+      "Type": "spydus",
+      "Url": "https://buckinghamshire.spydus.co.uk/"
+    },
+    {
+      "Name": "Bury",
+      "Code": "E08000002",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://bury.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "Caerphilly",
+      "Code": "W06000018",
+      "Type": "enterprise",
+      "Available": [
+        "SHELVES",
+        "RESERVES"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/caer_en/"
+    },
+    {
+      "Name": "Calderdale",
+      "Code": "E08000033",
+      "Type": "spydus",
+      "Url": "https://calderdale.spydus.co.uk/"
+    },
+    {
+      "Name": "Cambridgeshire",
+      "Code": "E10000003",
+      "Type": "spydus",
+      "Url": "https://cambridgeshire.spydus.co.uk/"
+    },
+    {
+      "Name": "Camden",
+      "Code": "E09000007",
+      "Type": "spydus",
+      "Url": "https://camden.spydus.co.uk/"
+    },
+    {
+      "Name": "Caerdydd - Cardiff",
+      "Code": "W06000015",
+      "Type": "enterprise",
+      "Available": [
+        "SHELVES",
+        "RESERVES"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/card_en/"
+    },
+    {
+      "Name": "Sir Gaerfyrddin - Carmarthenshire",
+      "Code": "W06000010",
+      "Type": "enterprise",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/carm_en/",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true"
+    },
+    {
+      "Name": "Central Bedfordshire",
+      "Code": "E06000056",
+      "Type": "arena",
+      "Version": "v7",
+      "OrganisationName": "Central",
+      "ArenaName": "AUK000022",
+      "Id": "220001",
+      "ISBNAlias": "number",
+      "SearchType": "Keywordx",
+      "Url": "https://beds-arena.culturalservices.net/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000022|1"
+    },
+    {
+      "Name": "Sir Ceredigion - Ceredigion",
+      "Code": "W06000008",
+      "Type": "enterprise",
+      "Available": [
+        "SHELVES",
+        "RESERVES"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://libraries.ceredigion.gov.uk/client/en_GB/cer_en/"
+    },
+    {
+      "Name": "Cheshire East",
+      "Code": "E06000049",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://cheslive.koha-ptfs.co.uk/"
+    },
+    {
+      "Name": "Cheshire West and Chester",
+      "Code": "E06000050",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://cheslive.koha-ptfs.co.uk/"
+    },
+    {
+      "Name": "City of London",
+      "Code": "E09000001",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://col.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "Clackmannanshire",
+      "Code": "S12000005",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://clacks.koha-ptfs.co.uk/"
+    },
+    {
+      "Name": "Conwy",
+      "Code": "W06000003",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/conwy_en/"
+    },
+    {
+      "Name": "Cornwall",
+      "Code": "E06000052",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/cornwall/"
+    },
+    {
+      "Name": "Coventry",
+      "Code": "E08000026",
+      "Type": "iguana",
+      "Database": "1",
+      "Url": "https://librarycatalogue.coventry.gov.uk/iguana/"
+    },
+    {
+      "Name": "Croydon",
+      "Code": "E09000008",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/croydon/"
+    },
+    {
+      "Name": "Cumbria",
+      "Code": "E10000006",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://cumbria-libraries.org.uk/"
+    },
+    {
+      "Name": "Darlington",
+      "Code": "E06000005",
+      "Type": "arena",
+      "Version": "v7",
+      "Id": "230001",
+      "ArenaName": "AUK000023",
+      "ArenaMemberId": "28980569",
+      "Url": "https://www2.darlington.gov.uk/web/arena/",
+      "OrganisationId": "AUK000023|0",
+      "OrganisationName": "Darlington",
+      "AdvancedUrl": "extended-search"
+    },
+    {
+      "Name": "Sir Ddinbych - Denbighshire",
+      "Code": "W06000004",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/denbighshire_en/"
+    },
+    {
+      "Name": "Derby City",
+      "Code": "E06000015",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://emlib.ent.sirsidynix.net.uk/client/en_GB/derby/"
+    },
+    {
+      "Name": "Derbyshire",
+      "Code": "E10000007",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://emlib.ent.sirsidynix.net.uk/client/en_GB/derbyshire/"
+    },
+    {
+      "Name": "Devon",
+      "Code": "E10000008",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK267001",
+      "AdvancedUrl": "advanced-search",
+      "OrganisationId": "AUK267001|1",
+      "Url": "https://www.devonlibraries.org.uk/web/arena/"
+    },
+    {
+      "Name": "Doncaster",
+      "Code": "E08000017",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000243",
+      "Id": "243001",
+      "Url": "https://library.doncaster.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000243|1",
+      "OrganisationName": "Doncaster"
+    },
+    {
+      "Name": "Dorset",
+      "Code": "E10000009",
+      "Type": "enterprise",
+      "Url": "https://www.librarieswest.org.uk/client/en_GB/default/",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true"
+    },
+    {
+      "Name": "Dudley",
+      "Code": "E08000027",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/dudley/"
+    },
+    {
+      "Name": "Dumfries and Galloway",
+      "Code": "S12000006",
+      "Type": "iguana",
+      "Database": "1_STOCK",
+      "Url": "https://dumgal.inforlib.uk/iguana/"
+    },
+    {
+      "Name": "Dundee City",
+      "Code": "S12000042",
+      "Type": "spydus",
+      "Url": "https://dundee.spydus.co.uk/"
+    },
+    {
+      "Name": "Durham",
+      "Code": "E06000047",
+      "Type": "durham",
+      "Url": "https://libraryonline.durham.gov.uk/"
+    },
+    {
+      "Name": "Ealing",
+      "Code": "E09000009",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true?d=ent://SD_ILS/0/SD_ILS:418188~~0",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/ealing/",
+      "LibraryNameFilter": "Ealing"
+    },
+    {
+      "Name": "East Ayrshire",
+      "Code": "S12000008",
+      "Type": "enterprise",
+      "Available": [
+        "SHELVES",
+        "RESERVES"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailitemstable_0.webservicefieldsajax:lookuptitleinfo/detailItemsDiv0/ent:[ITEMID]/ILS/true/true",
+      "Url": "https://ealt.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "East Dunbartonshire",
+      "Code": "S12000045",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://edlc.koha-ptfs.co.uk/"
+    },
+    {
+      "Name": "East Lothian",
+      "Code": "S12000010",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/eastlothian/"
+    },
+    {
+      "Name": "East Renfrewshire",
+      "Code": "S12000011",
+      "Type": "spydus",
+      "Url": "https://ercl.spydus.co.uk/"
+    },
+    {
+      "Name": "East Riding of Yorkshire",
+      "Code": "E06000011",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000205",
+      "Id": "205001",
+      "Url": "https://library.eastriding.gov.uk/web/arena/",
+      "AdvancedUrl": "advanced-search",
+      "OrganisationId": "AUK000205|1",
+      "SignupUrl": "https://library.eastriding.gov.uk/web/arena/self-registration"
+    },
+    {
+      "Name": "East Sussex",
+      "Code": "E10000011",
+      "Type": "spydus",
+      "Url": "https://eastsussex.spydus.co.uk/"
+    },
+    {
+      "Name": "Edinburgh",
+      "Code": "S12000036",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK269000",
+      "Id": "269001",
+      "Url": "https://yourlibrary.edinburgh.gov.uk/web/arena/",
+      "AdvancedUrl": "advanced-search",
+      "OrganisationId": "AUK269000|1"
+    },
+    {
+      "Name": "Enfield",
+      "Code": "E09000010",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/enfield/",
+      "LibraryNameFilter": "Enfield"
+    },
+    {
+      "Name": "Essex",
+      "Code": "E10000012",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://tlc.ent.sirsidynix.net.uk/client/en_GB/essex/"
+    },
+    {
+      "Name": "Falkirk",
+      "Code": "S12000014",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailitemstable_0.webservicefieldsajax:lookuptitleinfo/detailItemsDiv0/ent:[ITEMID]/ILS/true/true",
+      "Url": "http://fct.ent.sirsidynix.net.uk/client/en_GB/libraries/"
+    },
+    {
+      "Name": "Fife",
+      "Code": "S12000015",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/fife/"
+    },
+    {
+      "Name": "Sir y Fflint - Flintshire",
+      "Code": "W06000005",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/flintshire_en/"
+    },
+    {
+      "Name": "Gateshead",
+      "Code": "E08000037",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/gateshead/"
+    },
+    {
+      "Name": "Glasgow",
+      "Code": "S12000046",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000048",
+      "Id": "480001",
+      "Url": "https://libcat.csglasgow.org/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000048|1",
+      "OrganisationName": "Glasgow"
+    },
+    {
+      "Name": "Gloucestershire",
+      "Code": "E10000013",
+      "Type": "spydus",
+      "Url": "https://gloucestershire.spydus.co.uk/"
+    },
+    {
+      "Name": "Greenwich",
+      "Code": "E09000011",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/royalgreenwich/"
+    },
+    {
+      "Name": "Guernsey",
+      "Code": "",
+      "Type": "arena",
+      "Version": "v7",
+      "Id": "220001",
+      "OrganisationName": "Guernsey",
+      "OrganisationId": "AUKGUERNSEY|1",
+      "ArenaName": "AUKGUERNSEY",
+      "Url": "https://www.catalogue.library.gg/",
+      "AdvancedUrl": "extended-search"
+    },
+    {
+      "Name": "Gwynedd",
+      "Code": "W06000002",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/gwynedd_en/"
+    },
+    {
+      "Name": "Hackney",
+      "Code": "E09000012",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/hackney/",
+      "LibraryNameFilter": "Hackney"
+    },
+    {
+      "Name": "Halton",
+      "Code": "E06000006",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://hpl.koha-ptfs.co.uk/"
+    },
+    {
+      "Name": "Hammersmith and Fulham",
+      "Code": "E09000013",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://tlc.ent.sirsidynix.net.uk/client/en_GB/lbhf/"
+    },
+    {
+      "Name": "Hampshire",
+      "Code": "E10000014",
+      "Type": "spydus",
+      "Url": "https://hampshire.spydus.co.uk/"
+    },
+    {
+      "Name": "Haringey",
+      "Code": "E09000014",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/haringey/"
+    },
+    {
+      "Name": "Harrow",
+      "Code": "E09000015",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/harrow/",
+      "LibraryNameFilter": "Harrow"
+    },
+    {
+      "Name": "Hartlepool",
+      "Code": "E06000001",
+      "Type": "spydus",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://hartlepool.spydus.co.uk/"
+    },
+    {
+      "Name": "Havering",
+      "Code": "E09000016",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/havering/",
+      "LibraryNameFilter": "Havering"
+    },
+    {
+      "Name": "Herefordshire",
+      "Code": "E06000019",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/herefordshire/"
+    },
+    {
+      "Name": "Hertfordshire",
+      "Code": "E10000015",
+      "Type": "spydus",
+      "Url": "https://herts.spydus.co.uk/"
+    },
+    {
+      "Name": "Highland",
+      "Code": "S12000017",
+      "Type": "spydus",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://hlh.spydus.co.uk/"
+    },
+    {
+      "Name": "Hillingdon",
+      "Code": "E09000017",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "http://hldn.ent.sirsidynix.net.uk/client/en_GB/public/"
+    },
+    {
+      "Name": "Hounslow",
+      "Code": "E09000018",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/hounslow/",
+      "LibraryNameFilter": "Hounslow"
+    },
+    {
+      "Name": "Kingston upon Hull",
+      "Code": "E06000010",
+      "Type": "ibistro",
+      "Available": [
+        "Item on shelves"
+      ],
+      "Url": "https://hull.sirsidynix.net.uk/",
+      "Home": "uhtbin/cgisirsi/x/0/0/57/49?user_id=HULLWEB&amp;password=",
+      "Search": "uhtbin/cgisirsi/x/0/0/5?searchdata1="
+    },
+    {
+      "Name": "Inverclyde",
+      "Code": "S12000018",
+      "Type": "spydus",
+      "Url": "https://inverclyde.spydus.co.uk/"
+    },
+    {
+      "Name": "Isle of Wight",
+      "Code": "E06000046",
+      "Type": "spydus",
+      "Url": "https://iow.spydus.co.uk/"
+    },
+    {
+      "Name": "Islington",
+      "Code": "E09000019",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/islington/"
+    },
+    {
+      "Name": "Jersey",
+      "Code": "",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/jersey/"
+    },
+    {
+      "Name": "Kensington and Chelsea",
+      "Code": "E09000020",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://trib.ent.sirsidynix.net.uk/client/en_GB/rbkc/"
+    },
+    {
+      "Name": "Kent",
+      "Code": "E10000016",
+      "Type": "spydus",
+      "Url": "https://kent.spydus.co.uk/"
+    },
+    {
+      "Name": "Kingston upon Thames",
+      "Code": "E09000021",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/kingston/"
+    },
+    {
+      "Name": "Kirklees",
+      "Code": "E08000034",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "http://kir.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "Knowsley",
+      "Code": "E08000011",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://catalogue.knowsley.gov.uk/"
+    },
+    {
+      "Name": "Lambeth",
+      "Code": "E09000022",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000271",
+      "Id": "750001",
+      "Url": "https://libraries.lambeth.gov.uk/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000271|1"
+    },
+    {
+      "Name": "Lancashire",
+      "Code": "E10000017",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/lancashire/"
+    },
+    {
+      "Name": "Leeds",
+      "Code": "E08000035",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://leeds.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "Leicester City",
+      "Code": "E06000016",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000201",
+      "Id": "201001",
+      "Url": "https://bookfinder.leicester.gov.uk/web/arena/",
+      "AdvancedUrl": "advanced-search",
+      "OrganisationId": "AUK000201|1",
+      "OrganisationName": "Leicester City"
+    },
+    {
+      "Name": "Leicestershire",
+      "Code": "E10000018",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://emlib.ent.sirsidynix.net.uk/client/en_GB/leics/"
+    },
+    {
+      "Name": "Lewisham",
+      "Code": "E09000023",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/lewisham/",
+      "LibraryNameFilter": "Lewisham"
+    },
+    {
+      "Name": "Lincolnshire",
+      "Code": "E10000019",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/lincolnshire/"
+    },
+    {
+      "Name": "Liverpool",
+      "Code": "E08000012",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/liverpool/"
+    },
+    {
+      "Name": "Luton",
+      "Code": "E06000032",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/luton/",
+      "LibraryNameFilter": "Luton"
+    },
+    {
+      "Name": "Manchester",
+      "Code": "E08000003",
+      "Type": "spydus",
+      "Url": "https://manchester.spydus.co.uk/"
+    },
+    {
+      "Name": "Medway",
+      "Code": "E06000035",
+      "Type": "spydus",
+      "Url": "https://medway.spydus.co.uk/"
+    },
+    {
+      "Name": "Merthyr Tudful - Merthyr Tydfil",
+      "Code": "W06000024",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/merthyr/"
+    },
+    {
+      "Name": "Merton",
+      "Code": "E09000024",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://libraries.merton.gov.uk/client/en_GB/merton/",
+      "LibraryNameFilter": "Merton"
+    },
+    {
+      "Name": "Middlesbrough",
+      "Code": "E06000002",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://libraries.middlesbrough.gov.uk/"
+    },
+    {
+      "Name": "Midlothian",
+      "Code": "S12000019",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000075",
+      "Id": "750001",
+      "Url": "https://libraries.midlothian.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000075|0",
+      "SignupUrl": "https://libraries.midlothian.gov.uk/web/arena/online-registration"
+    },
+    {
+      "Name": "Milton Keynes",
+      "Code": "E06000042",
+      "Type": "spydus",
+      "Url": "https://miltonkeynes.spydus.co.uk/"
+    },
+    {
+      "Name": "Sir Fynwy - Monmouthshire",
+      "Code": "W06000021",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/mmou_en/"
+    },
+    {
+      "Name": "Moray",
+      "Code": "S12000020",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/moray/"
+    },
+    {
+      "Name": "Castell-nedd Port Talbot - Neath Port Talbot",
+      "Code": "W06000012",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/npt_en/"
+    },
+    {
+      "Name": "Newcastle upon Tyne",
+      "Code": "E08000021",
+      "Type": "koha",
+      "Version": "v22",
+      "Url": "https://libraries.newcastle.gov.uk/"
+    },
+    {
+      "Name": "Newham",
+      "Code": "E09000025",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/newham/",
+      "LibraryNameFilter": "Newham"
+    },
+    {
+      "Name": "Casnewydd - Newport",
+      "Code": "W06000022",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/newport_en/"
+    },
+    {
+      "Name": "Norfolk",
+      "Code": "E10000020",
+      "Type": "spydus",
+      "Url": "https://norfolk.spydus.co.uk/"
+    },
+    {
+      "Name": "North Ayrshire",
+      "Code": "S12000021",
+      "Type": "spydus",
+      "Url": "https://north-ayrshire.spydus.co.uk/"
+    },
+    {
+      "Name": "North East Lincolnshire",
+      "Code": "E06000012",
+      "Type": "arena",
+      "Version": "v7",
+      "Id": "252001",
+      "ArenaName": "AUK000252",
+      "Url": "https://www.lincsinspirelibraries.com/web/arena/",
+      "AdvancedUrl": "advanced-search",
+      "OrganisationId": "AUK000252|1",
+      "OrganisationName": "NELC Libraries"
+    },
+    {
+      "Name": "North Lanarkshire",
+      "Code": "S12000044",
+      "Type": "iguana",
+      "Database": "1",
+      "Url": "https://libraries.culturenl.co.uk/iguana/"
+    },
+    {
+      "Name": "North Lincolnshire",
+      "Code": "E06000013",
+      "Type": "arena",
+      "Version": "v6",
+      "ArenaName": "AUK000221",
+      "Url": "https://www.opac.northlincs.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000221|0",
+      "SignupUrl": "https://www.opac.northlincs.gov.uk/join-the-library",
+      "Id": "221001",
+      "PreLoad": true
+    },
+    {
+      "Name": "North Somerset",
+      "Code": "E06000024",
+      "Type": "enterprise",
+      "Id": "280001",
+      "Url": "https://www.librarieswest.org.uk/client/en_GB/default/",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "MultiAuthorityId": 2
+    },
+    {
+      "Name": "North Tyneside",
+      "Code": "E08000022",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/northtyneside/"
+    },
+    {
+      "Name": "North Yorkshire",
+      "Code": "E10000023",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/northyorkshire/"
+    },
+    {
+      "Name": "Northamptonshire",
+      "Code": "E10000021",
+      "Type": "arena",
+      "Version": "v6",
+      "ArenaName": "AUK000256",
+      "Id": "256001",
+      "Url": "https://www.librarycatalogue.northamptonshire.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000256|1",
+      "OrganisationName": "Northamptonshire"
+    },
+    {
+      "Name": "Northumberland",
+      "Code": "E06000057",
+      "Type": "spydus",
+      "Url": "https://northumberland.spydus.co.uk/"
+    },
+    {
+      "Name": "Nottingham City",
+      "Code": "E06000018",
+      "Type": "enterprise",
+      "Available": [
+        ""
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://emlib.ent.sirsidynix.net.uk/client/en_GB/nottcity/"
+    },
+    {
+      "Name": "Nottinghamshire",
+      "Code": "E10000024",
+      "Type": "enterprise",
+      "Available": [
+        ""
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://emlib.ent.sirsidynix.net.uk/client/en_GB/nelib/"
+    },
+    {
+      "Name": "Northern Ireland",
+      "Code": "",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "http://lni.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "Oldham",
+      "Code": "E08000004",
+      "Type": "spydus",
+      "Url": "https://oldham.spydus.co.uk/"
+    },
+    {
+      "Name": "Orkney Islands",
+      "Code": "S12000023",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/orkney/"
+    },
+    {
+      "Name": "Oxfordshire",
+      "Code": "E10000025",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000217",
+      "Url": "https://libcat.oxfordshire.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000217|0"
+    },
+    {
+      "Name": "Sir Benfro - Pembrokeshire",
+      "Code": "W06000009",
+      "Type": "iguana",
+      "Database": "1_STOCK",
+      "Url": "https://libraries.pembrokeshire.gov.uk/iguana/"
+    },
+    {
+      "Name": "Perth and Kinross",
+      "Code": "S12000024",
+      "Type": "spydus",
+      "Url": "https://pkc.spydus.co.uk/"
+    },
+    {
+      "Name": "Peterborough",
+      "Code": "E06000031",
+      "Type": "spydus",
+      "Url": "https://peterborough.spydus.co.uk/"
+    },
+    {
+      "Name": "Plymouth",
+      "Code": "E06000026",
+      "Type": "arena",
+      "Version": "v6",
+      "ArenaName": "AUK770000",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK770000|1",
+      "Url": "https://library.plymouth.gov.uk/web/arena/"
+    },
+    {
+      "Name": "Poole",
+      "Code": "E06000029",
+      "Type": "enterprise",
+      "Url": "https://www.librarieswest.org.uk/client/en_GB/default/",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true"
+    },
+    {
+      "Name": "Portsmouth",
+      "Code": "E06000044",
+      "Type": "spydus",
+      "Url": "https://portsmouth.spydus.co.uk/"
+    },
+    {
+      "Name": "Powys",
+      "Code": "W06000023",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/powys_en/"
+    },
+    {
+      "Name": "Reading",
+      "Code": "E06000038",
+      "Type": "spydus",
+      "Url": "https://library.reading.gov.uk/",
+      "DisableTls": true
+    },
+    {
+      "Name": "Redbridge",
+      "Code": "E09000026",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/redbridge/",
+      "LibraryNameFilter": "Redbridge"
+    },
+    {
+      "Name": "Redcar and Cleveland",
+      "Code": "E06000003",
+      "Type": "arena",
+      "Version": "v6",
+      "ArenaName": "AUK000215",
+      "Url": "https://libraries.redcar-cleveland.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000215|1"
+    },
+    {
+      "Name": "Renfrewshire",
+      "Code": "S12000038",
+      "Type": "iguana",
+      "Database": "1",
+      "Faceted": false,
+      "Url": "https://libcat.renfrewshire.gov.uk/iguana/"
+    },
+    {
+      "Name": "Rhondda Cynon Taf",
+      "Code": "W06000016",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/rct_en/"
+    },
+    {
+      "Name": "Richmond upon Thames",
+      "Code": "E09000027",
+      "Type": "spydus",
+      "Url": "https://richmond.spydus.co.uk/"
+    },
+    {
+      "Name": "Rochdale",
+      "Code": "E08000005",
+      "Type": "spydus",
+      "Url": "https://rochdale.spydus.co.uk/"
+    },
+    {
+      "Name": "Rotherham",
+      "Code": "E08000018",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://rotherham.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "Rutland",
+      "Code": "E06000017",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://emlib.ent.sirsidynix.net.uk/client/en_GB/rutland/"
+    },
+    {
+      "Name": "Salford",
+      "Code": "E08000006",
+      "Type": "spydus",
+      "Url": "https://salfordlibraries.spydus.co.uk/"
+    },
+    {
+      "Name": "Sandwell",
+      "Code": "E08000028",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/sandwell/"
+    },
+    {
+      "Name": "Scottish Borders",
+      "Code": "S12000026",
+      "Type": "iguana",
+      "Database": "1",
+      "Url": "https://liveborders.inforlib.uk/iguana/"
+    },
+    {
+      "Name": "Sefton",
+      "Code": "E08000014",
+      "Type": "koha",
+      "Version": "v22",
+      "Url": "https://catalogue.sefton.gov.uk/"
+    },
+    {
+      "Name": "Sheffield",
+      "Code": "E08000019",
+      "Type": "enterprise",
+      "Url": "https://library.sheffield.gov.uk/client/en_GB/default/",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true"
+    },
+    {
+      "Name": "Shetland Islands",
+      "Code": "S12000027",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/shetland/"
+    },
+    {
+      "Name": "Shropshire",
+      "Code": "E06000051",
+      "Type": "arena",
+      "Version": "v6",
+      "ArenaName": "AUK000034",
+      "Url": "https://libraries.shropshire.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000034|1"
+    },
+    {
+      "Name": "Slough",
+      "Code": "E06000039",
+      "Type": "spydus",
+      "Url": "https://slough.spydus.co.uk/"
+    },
+    {
+      "Name": "Solihull",
+      "Code": "E08000029",
+      "Type": "spydus",
+      "Url": "https://solihull.spydus.co.uk/"
+    },
+    {
+      "Name": "Somerset",
+      "Code": "E10000027",
+      "Type": "enterprise",
+      "Id": "280001",
+      "Url": "https://www.librarieswest.org.uk/client/en_GB/default/",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "MultiAuthorityId": 1
+    },
+    {
+      "Name": "South Ayrshire",
+      "Code": "S12000028",
+      "Type": "webpac",
+      "Url": "https://library.south-ayrshire.gov.uk/",
+      "DisableTls": true
+    },
+    {
+      "Name": "South Gloucestershire",
+      "Code": "E06000025",
+      "Type": "enterprise",
+      "Id": "280001",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://www.librarieswest.org.uk/client/en_GB/default/",
+      "MultiAuthorityId": 5
+    },
+    {
+      "Name": "South Lanarkshire",
+      "Code": "S12000029",
+      "Type": "spydus",
+      "Url": "https://www.sllclibrary.co.uk/"
+    },
+    {
+      "Name": "South Tyneside",
+      "Code": "E08000023",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/southtyneside/"
+    },
+    {
+      "Name": "Southampton",
+      "Code": "E06000045",
+      "Type": "spydus",
+      "Url": "https://southampton.spydus.co.uk/"
+    },
+    {
+      "Name": "Southend on Sea",
+      "Code": "E06000033",
+      "Type": "spydus",
+      "Url": "https://southend.spydus.co.uk/"
+    },
+    {
+      "Name": "Southwark",
+      "Code": "E09000028",
+      "Type": "spydus",
+      "Url": "https://southwark.spydus.co.uk/"
+    },
+    {
+      "Name": "St Helens",
+      "Code": "E08000013",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://sthlibraries.koha-ptfs.co.uk/"
+    },
+    {
+      "Name": "Staffordshire",
+      "Code": "E10000028",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "Url": "https://stafford.ent.sirsidynix.net.uk/client/en_GB/default/",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true"
+    },
+    {
+      "Name": "Stirling",
+      "Code": "S12000030",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "Url": "https://scl.ent.sirsidynix.net.uk/client/en_GB/default/",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true"
+    },
+    {
+      "Name": "Stockport",
+      "Code": "E08000007",
+      "Type": "spydus",
+      "Url": "https://stockport.spydus.co.uk/"
+    },
+    {
+      "Name": "Stockton on Tees",
+      "Code": "E06000004",
+      "Type": "spydus",
+      "Url": "https://stockton.spydus.co.uk/"
+    },
+    {
+      "Name": "Stoke on Trent",
+      "Code": "E06000021",
+      "Type": "iguana",
+      "Database": "1",
+      "Url": "https://librariesonline.stoke.gov.uk/iguana/"
+    },
+    {
+      "Name": "Suffolk",
+      "Code": "E10000029",
+      "Type": "spydus",
+      "Url": "https://suffolk.spydus.co.uk/"
+    },
+    {
+      "Name": "Sunderland",
+      "Code": "E08000024",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "Url": "https://libraries.sunderland.gov.uk/client/en_GB/default/",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailitemstable_0.webservicefieldsajax:lookuptitleinfo/detailItemsDiv0/ent:[ITEMID]/ILS/true/true"
+    },
+    {
+      "Name": "Surrey",
+      "Code": "E10000030",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/sutton/",
+      "LibraryNameFilter": "Surrey"
+    },
+    {
+      "Name": "Sutton",
+      "Code": "E09000029",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/sutton/",
+      "LibraryNameFilter": "Sutton"
+    },
+    {
+      "Name": "Abertawe - Swansea",
+      "Code": "W06000011",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/swan_en/"
+    },
+    {
+      "Name": "Swindon",
+      "Code": "E06000030",
+      "Type": "spydus",
+      "Url": "https://swindon.spydus.co.uk/"
+    },
+    {
+      "Name": "Tameside",
+      "Code": "E08000008",
+      "Type": "spydus",
+      "Url": "https://tameside.spydus.co.uk/"
+    },
+    {
+      "Name": "Telford and Wrekin",
+      "Code": "E06000020",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK000032",
+      "Id": "320001",
+      "Url": "https://library.telford.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000032|0",
+      "OrganisationName": "wrekin"
+    },
+    {
+      "Name": "Thurrock",
+      "Code": "E06000034",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://tlc.ent.sirsidynix.net.uk/client/en_GB/thurrock/"
+    },
+    {
+      "Name": "Torbay",
+      "Code": "E06000027",
+      "Type": "arena",
+      "Version": "v7",
+      "ArenaName": "AUK267001",
+      "Url": "https://www.torbaylibraries.org.uk/web/arena/",
+      "AdvancedUrl": "advanced-search",
+      "OrganisationId": "AUK267001|2"
+    },
+    {
+      "Name": "Tor-faen - Torfaen",
+      "Code": "W06000020",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/tor_en/"
+    },
+    {
+      "Name": "Tower Hamlets",
+      "Code": "E09000030",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/tower-hamlets/",
+      "LibraryNameFilter": "Tower Hamlets"
+    },
+    {
+      "Name": "Trafford",
+      "Code": "E08000009",
+      "Type": "spydus",
+      "Url": "https://trafford.spydus.co.uk/"
+    },
+    {
+      "Name": "Bro Morgannwg - the Vale of Glamorgan",
+      "Code": "W06000014",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/vog_en/"
+    },
+    {
+      "Name": "Wakefield",
+      "Code": "E08000036",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wakefield.ent.sirsidynix.net.uk/client/en_GB/default/",
+      "LibraryNameFilter": "Wakefield"
+    },
+    {
+      "Name": "Walsall",
+      "Code": "E08000030",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/walsall/"
+    },
+    {
+      "Name": "Waltham Forest",
+      "Code": "E09000031",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/walthamforest/",
+      "LibraryNameFilter": "Waltham Forest"
+    },
+    {
+      "Name": "Wandsworth",
+      "Code": "E09000032",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/wandsworth/"
+    },
+    {
+      "Name": "Warrington",
+      "Code": "E06000007",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://libonline.livewirewarrington.co.uk/"
+    },
+    {
+      "Name": "Warwickshire",
+      "Code": "E10000031",
+      "Type": "iguana",
+      "Database": "1",
+      "Url": "https://library.warwickshire.gov.uk/iguana/"
+    },
+    {
+      "Name": "West Berkshire",
+      "Code": "E06000037",
+      "Type": "spydus",
+      "Url": "https://westberks.spydus.co.uk/"
+    },
+    {
+      "Name": "West Dunbartonshire",
+      "Code": "S12000039",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailitemstable_0.webservicefieldsajax:lookuptitleinfo/detailItemsDiv0/ent:[ITEMID]/ILS/true/true",
+      "Url": "http://wd.ent.sirsidynix.net.uk/client/wd/"
+    },
+    {
+      "Name": "West Lothian",
+      "Code": "S12000040",
+      "Type": "enterprise",
+      "Available": [
+        "AVAILABLE"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wlcls.ent.sirsidynix.net.uk/client/en_GB/default/"
+    },
+    {
+      "Name": "West Sussex",
+      "Code": "E10000032",
+      "Type": "arena",
+      "Version": "v6",
+      "Id": "380001",
+      "ArenaName": "AUK000038",
+      "Url": "https://arena.westsussex.gov.uk/web/arena/",
+      "AdvancedUrl": "extended-search",
+      "OrganisationId": "AUK000038|1"
+    },
+    {
+      "Name": "Western Isles",
+      "Code": "S12000013",
+      "Type": "koha",
+      "Version": "v20",
+      "Url": "https://wi.koha-ptfs.co.uk/"
+    },
+    {
+      "Name": "Westminster",
+      "Code": "E09000033",
+      "Type": "enterprise",
+      "Available": [
+        "In stock"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://elibrary.westminster.gov.uk/client/en_GB/wcc/"
+    },
+    {
+      "Name": "Wigan",
+      "Code": "E08000010",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/wigan/"
+    },
+    {
+      "Name": "Wiltshire",
+      "Code": "E06000054",
+      "Type": "arena",
+      "Version": "v6",
+      "Id": "400001",
+      "ArenaName": "AUK000040",
+      "OrganisationId": "AUK000040|1",
+      "OrganisationName": "Wiltshire Libraries",
+      "Url": "https://libraries.wiltshire.gov.uk/web/arena/",
+      "AdvancedUrl": "advanced-search"
+    },
+    {
+      "Name": "Windsor & Maidenhead",
+      "Code": "E06000040",
+      "Type": "spydus",
+      "Url": "https://rbwm.spydus.co.uk/"
+    },
+    {
+      "Name": "Wirral",
+      "Code": "E08000015",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/wirral/"
+    },
+    {
+      "Name": "Wokingham",
+      "Code": "E06000041",
+      "Type": "spydus",
+      "Url": "https://wokingham.spydus.co.uk/"
+    },
+    {
+      "Name": "Wolverhampton",
+      "Code": "E08000031",
+      "Type": "prism3",
+      "Available": [
+        "Available"
+      ],
+      "Url": "https://prism.librarymanagementcloud.co.uk/wolverhampton/"
+    },
+    {
+      "Name": "Worcestershire",
+      "Code": "E10000034",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wcc.ent.sirsidynix.net.uk/client/en_GB/wcc/"
+    },
+    {
+      "Name": "Wrecsam - Wrexham",
+      "Code": "W06000006",
+      "Type": "enterprise",
+      "Available": [
+        "Available"
+      ],
+      "AvailabilityUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://wales.ent.sirsidynix.net.uk/client/en_GB/wrexham_en/"
+    },
+    {
+      "Name": "York City",
+      "Code": "E06000014",
+      "Type": "enterprise",
+      "Available": [
+        "On the shelf"
+      ],
+      "TitleDetailUrl": "search/detailnonmodal.detail.detailavailabilityaccordions:lookuptitleinfo/ent:[ITEMID]/ILS/0/true/true",
+      "Url": "https://cyc.sdp.sirsidynix.net.uk/client/en_GB/default/"
+    }
+  ]
+}
